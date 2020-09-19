@@ -1,0 +1,14 @@
+#config files
+*.yml
+*.yaml
+
+# jupyter checpoints
+*.ipynb_checkpoints
+
+# data files
+*.npy
+*.csv
+
+# python saved obj (for models)
+*.pkl
+
